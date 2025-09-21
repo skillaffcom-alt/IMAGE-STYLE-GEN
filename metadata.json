@@ -1,0 +1,5 @@
+{
+  "name": "Photoshoot Generator",
+  "description": "An AI-powered toolkit to generate commercial product photos with models in various poses. Describe your product, model, and desired poses to create a set of high-quality, ready-to-use images for your marketing needs.",
+  "requestFramePermissions": []
+}
